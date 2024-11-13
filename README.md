@@ -33,7 +33,7 @@ Passionate about unraveling Earth's mysteries through code and data. Specializin
 - 🌐 [Website](https://acadstaff.ugm.ac.id//irnaka)
 - 💼 [LinkedIn](https://linkedin.com/in/irnaka)
 - 🔬 [ResearchGate](https://researchgate.net/profile/irnaka)
-- 📚 [Google Scholar](https://scholar.google.com/citations?user=irnaka)
+- 📚 [Google Scholar]([https://scholar.google.com/citations?user=irnaka](https://scholar.google.com/citations?user=N9EZjkwAAAAJ&hl=en&oi=ao))
 - 🆔 [ORCID](https://orcid.org/0000-0002-0040-5142)
 
 ## 💻 Featured Projects
